@@ -1,4 +1,4 @@
-## awesome-web-visualization-frameworks
+## awesome-web-visualization-libraries
 The number of libraries for visualization on the web is huge.
 This awesome list is an attempt to create a growing list of frameworks listed for easy reference.
 
