@@ -1,6 +1,6 @@
 ## awesome-web-data-visualization-frameworks
 The number of libraries for visualization on the web is huge.
-This awesome list is an attempt to create a list of frameworks for data visualization in the browser that will grow every occasion I find a new one.
+This awesome list is an attempt to create a growing list of frameworks listed for easy reference.
 
 #### An item on this list is awesome because:
 1. it can be used to visualize data in a modern browser
