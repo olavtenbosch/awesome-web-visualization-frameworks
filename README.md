@@ -1,5 +1,6 @@
 ## awesome-web-data-visualization-frameworks
-An awesome list of open source javascript frameworks for data visualization in the browser.
+The number of libraries for visualization on the web is huge.
+This awesome list is an attempt to create a list of frameworks for data visualization in the browser that will grow every occasion I find a new one.
 
 #### An item on this list is awesome because:
 1. it can be used to visualize data in a modern browser
@@ -16,6 +17,14 @@ An awesome list of open source javascript frameworks for data visualization in t
 - [Stardust](https://stardustjs.github.io/): GPU-based Visualization Library. Uses webGL.
 - [PIXI](http://www.pixijs.com/): General purpose fast 2D WebGL renderer. Supports WebGL.
 - [Visjs](http://visjs.org/): Dynamic, browser based visualization, 2D and 3D. Supports Canvas.
+- [Vx](https://vx-demo.now.sh/): Visualization components based on d3.js and react.
+- [Vega](https://vega.github.io/vega/): A visualisation Grammar
+- [Vega-lite](https://vega.github.io/vega-lite/): Easy JSON based visualisation tool, compiles to Vega
+- [NVD3](http://nvd3.org/): Re-usable charts for d3.js
+- [Chart.js](http://www.chartjs.org/): Simple charting library
+- [Data Illustrator](http://www.data-illustrator.com/): Data visualizations as in a design tool
+- [Highcharts](https://www.highcharts.com/): Advanced visualization library, also commercial
+
 
 #### Graph drawing
 - [Sigma](http://sigmajs.org/): Graph drawing. Supports WebGL with fallback to Canvas.
@@ -27,12 +36,9 @@ An awesome list of open source javascript frameworks for data visualization in t
 #### 3Dimensional
 - [three.js](https://threejs.org/): 3D visualization. Supports Canvas.
 
-#### React
-- [Vx](https://vx-demo.now.sh/): Visualization components based on d3.js and react
+#### Web-based
+- [DrasticTreemap](https://www.drasticdata.nl/treemapping.htm): Drop a CSV and visualiz in treemap, barchart, scatter or circle diagram
 
-
-#### API's to charting libraries:
-- Javascript [Chart.js](http://www.chartjs.org/)
 
 
 *****
