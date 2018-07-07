@@ -29,6 +29,7 @@ This awesome list is an attempt to create a growing list of frameworks listed fo
 #### Graph drawing
 - [Sigma](http://sigmajs.org/): Graph drawing. Supports WebGL with fallback to Canvas.
 - [Cytoscape](http://js.cytoscape.org/): Graph theory / network library. Support Canvas.
+- [Cola](http://ialab.it.monash.edu/webcola/): Fast Graph drawing in browser.
 - [Popoto](http://www.popotojs.com/): Graph drawing and querying using D3 on neo4j databases. Supports SVG.
 - [Arbor](http://arborjs.org/): Graph visualization library using web workers and jquery. Supports Canvas.
 - [Alchemy](http://graphalchemist.github.io/Alchemy/#/): Graph drawing. Supports SVG.
