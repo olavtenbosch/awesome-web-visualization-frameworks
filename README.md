@@ -24,6 +24,7 @@ This awesome list is an attempt to create a growing list of frameworks listed fo
 - [Chart.js](http://www.chartjs.org/): Simple charting library
 - [Data Illustrator](http://www.data-illustrator.com/): Data visualizations as in a design tool
 - [Highcharts](https://www.highcharts.com/): Advanced visualization library, also commercial
+- [Phenomenon](https://github.com/vaneenige/phenomenon): Small, low-level WebGL library for high performance particle drawing
 
 
 #### Graph drawing
