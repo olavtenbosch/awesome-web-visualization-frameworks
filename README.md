@@ -26,6 +26,7 @@ This awesome list is an attempt to create a growing list of frameworks listed fo
 - [Highcharts](https://www.highcharts.com/): Advanced visualization library, also commercial
 - [Phenomenon](https://github.com/vaneenige/phenomenon): Small, low-level WebGL library for high performance particle drawing
 - [Pts](https://ptsjs.org/):Essential efficient building blocks for creative coding and visualization.
+- [Deck.gl](http://deck.gl): WebGL-powered framework for visual exploratory data analysis of large datasets
 
 
 #### Graph drawing
