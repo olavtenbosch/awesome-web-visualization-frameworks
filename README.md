@@ -29,7 +29,10 @@ This awesome list is an attempt to create a growing list of frameworks listed fo
 - [Deck.gl](http://deck.gl): WebGL-powered framework for visual exploratory data analysis of large datasets
 - [Regl](http://regl.party/): Declarative and stateless webgl
 - [Sketch.js](http://soulwire.github.io/sketch.js/): Minimal JavaScript Creative Coding Framework
+- [p5js](https://p5js.org/): javascript library for coding 
 
+#### Time series data:
+- [](https://metricsgraphicsjs.org/): optimized for time-series data; built on D3
 
 
 
