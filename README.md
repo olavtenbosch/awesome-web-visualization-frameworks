@@ -43,6 +43,9 @@ This awesome list is an attempt to create a growing list of frameworks listed fo
 - [Popoto](http://www.popotojs.com/): Graph drawing and querying using D3 on neo4j databases. Supports SVG.
 - [Arbor](http://arborjs.org/): Graph visualization library using web workers and jquery. Supports Canvas.
 - [Alchemy](http://graphalchemist.github.io/Alchemy/#/): Graph drawing. Supports SVG.
+- [Elgrapho](https://www.elgrapho.com/): Graph drawing, on Webgl.
+
+
 
 #### 3Dimensional
 - [three.js](https://threejs.org/): 3D visualization. Supports Canvas.
