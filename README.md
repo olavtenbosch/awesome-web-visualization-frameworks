@@ -30,6 +30,8 @@ This awesome list is an attempt to create a growing list of frameworks listed fo
 - [Regl](http://regl.party/): Declarative and stateless webgl
 - [Sketch.js](http://soulwire.github.io/sketch.js/): Minimal JavaScript Creative Coding Framework
 - [p5js](https://p5js.org/): javascript library for coding 
+- [Luma](https://luma.gl): High-performance WebGL2 components for GPU-powered data visualization and computation.
+
 
 #### Time series data:
 - [](https://metricsgraphicsjs.org/): optimized for time-series data; built on D3
