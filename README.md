@@ -31,6 +31,7 @@ This awesome list is an attempt to create a growing list of frameworks listed fo
 - [Sketch.js](http://soulwire.github.io/sketch.js/): Minimal JavaScript Creative Coding Framework
 - [p5js](https://p5js.org/): javascript library for coding 
 - [Luma](https://luma.gl): High-performance WebGL2 components for GPU-powered data visualization and computation.
+- [Potree](http://www.potree.org/): WebGL based point cloud renderer for large point clouds.
 
 
 #### Time series data:
