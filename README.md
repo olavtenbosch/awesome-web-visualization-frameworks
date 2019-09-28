@@ -29,10 +29,10 @@ This awesome list is an attempt to create a growing list of frameworks listed fo
 - [Deck.gl](http://deck.gl): WebGL-powered framework for visual exploratory data analysis of large datasets
 - [Regl](https://github.com/regl-project/regl): Fast functional webgl
 - [Sketch.js](http://soulwire.github.io/sketch.js/): Minimal JavaScript Creative Coding Framework
-- [p5js](https://p5js.org/): javascript library for coding 
+- [p5js](https://p5js.org/): javascript library for creative coding 
 - [Luma](https://luma.gl): High-performance WebGL2 components for GPU-powered data visualization and computation.
 - [Potree](http://www.potree.org/): WebGL based point cloud renderer for large point clouds.
-
+- [ogl](https://github.com/oframe/ogl): Minimal WebGL framework
 
 #### Time series data:
 - [](https://metricsgraphicsjs.org/): optimized for time-series data; built on D3
@@ -48,7 +48,8 @@ This awesome list is an attempt to create a growing list of frameworks listed fo
 - [Alchemy](http://graphalchemist.github.io/Alchemy/#/): Graph drawing. Supports SVG.
 - [Elgrapho](https://www.elgrapho.com/): Graph drawing, on Webgl.
 
-
+#### Pictures and graphs
+ - [PixPlot](https://github.com/YaleDHLab/pix-plot): A WebGL viewer for UMAP or TSNE-clustered images
 
 #### 3Dimensional
 - [three.js](https://threejs.org/): 3D visualization. Supports Canvas.
