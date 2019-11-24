@@ -33,6 +33,7 @@ This awesome list is an attempt to create a growing list of frameworks listed fo
 - [Luma](https://luma.gl): High-performance WebGL2 components for GPU-powered data visualization and computation.
 - [Potree](http://www.potree.org/): WebGL based point cloud renderer for large point clouds.
 - [ogl](https://github.com/oframe/ogl): Minimal WebGL framework
+- [ZIM](https://zimjs.com): JavaScript Canvas Framework, based on Createjs
 
 #### Time series data:
 - [](https://metricsgraphicsjs.org/): optimized for time-series data; built on D3
@@ -47,6 +48,7 @@ This awesome list is an attempt to create a growing list of frameworks listed fo
 - [Arbor](http://arborjs.org/): Graph visualization library using web workers and jquery. Supports Canvas.
 - [Alchemy](http://graphalchemist.github.io/Alchemy/#/): Graph drawing. Supports SVG.
 - [Elgrapho](https://www.elgrapho.com/): Graph drawing, on Webgl.
+- [Grapher](https://grapher.network/): An R integration of ngraph.
 
 #### Pictures and graphs
  - [PixPlot](https://github.com/YaleDHLab/pix-plot): A WebGL viewer for UMAP or TSNE-clustered images
