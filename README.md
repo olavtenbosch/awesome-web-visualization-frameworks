@@ -35,6 +35,7 @@ This awesome list is an attempt to create a growing list of frameworks listed fo
 - [ogl](https://github.com/oframe/ogl): Minimal WebGL framework
 - [ZIM](https://zimjs.com): JavaScript Canvas Framework, based on Createjs
 - [SandDance](https://sanddance.js.org/): Visually explore and present data. Built on top of Vega and deck.gl.
+- [TWGL](https://github.com/greggman/twgl.js): Tiny WebGL helper Library
 
 #### Time series data:
 - [MetricsGraphics](https://metricsgraphicsjs.org/): optimized for time-series data; built on D3
