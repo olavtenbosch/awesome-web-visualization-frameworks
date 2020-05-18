@@ -36,6 +36,7 @@ This awesome list is an attempt to create a growing list of frameworks listed fo
 - [ZIM](https://zimjs.com): JavaScript Canvas Framework, based on Createjs
 - [SandDance](https://sanddance.js.org/): Visually explore and present data. Built on top of Vega and deck.gl.
 - [TWGL](https://github.com/greggman/twgl.js): Tiny WebGL helper Library
+- [D3FC](https://d3fc.io/): Rapidly build fast, customizable interactive components with D3, supporting webgl
 
 #### Time series data:
 - [MetricsGraphics](https://metricsgraphicsjs.org/): optimized for time-series data; built on D3
