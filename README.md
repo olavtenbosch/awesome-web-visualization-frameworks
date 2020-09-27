@@ -57,7 +57,8 @@ This awesome list is an attempt to create a growing list of frameworks listed fo
  - [PixPlot](https://github.com/YaleDHLab/pix-plot): A WebGL viewer for UMAP or TSNE-clustered images
 
 #### 3Dimensional
-- [three.js](https://threejs.org/): 3D visualization. Supports Canvas.
+- [three.js](https://threejs.org/): 3D visualization. WebGL.
+- [babylon.js](https://www.babylonjs.com/): 3D visualization. WEbGL.
 
 #### Web-based
 - [DrasticTreemap](https://www.drasticdata.nl/treemapping.htm): Drop a CSV and visualiz in treemap, barchart, scatter or circle diagram
