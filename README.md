@@ -37,6 +37,7 @@ This awesome list is an attempt to create a growing list of frameworks listed fo
 - [SandDance](https://sanddance.js.org/): Visually explore and present data. Built on top of Vega and deck.gl.
 - [TWGL](https://github.com/greggman/twgl.js): Tiny WebGL helper Library
 - [D3FC](https://d3fc.io/): Rapidly build fast, customizable interactive components with D3, supporting webgl
+- [genome-spy](https://github.com/tuner/genome-spy): WebGL based datavis with scales and zoom
 
 #### Time series data:
 - [MetricsGraphics](https://metricsgraphicsjs.org/): optimized for time-series data; built on D3
