@@ -16,6 +16,7 @@ This awesome list is an attempt to create a growing list of frameworks listed fo
 - [CreateJS/EaselJS](https://createjs.com/easeljs): Games, art and other graphical experiences such as data vizualization. Supports Canvas.
 - [Stardust](https://stardustjs.github.io/): GPU-based Visualization Library. Uses webGL.
 - [PIXI](http://www.pixijs.com/): General purpose fast 2D WebGL renderer. Supports WebGL.
+- [Graphology](https://github.com/graphology/graphology) - A robust & multipurpose Graph object for javascript & TypeScript; Serves as a base library to power other graph visualization libraries.
 - [Visjs](http://visjs.org/): Dynamic, browser based visualization, 2D and 3D. Supports Canvas.
 - [Vx](https://vx-demo.now.sh/): Visualization components based on d3.js and react.
 - [Vega](https://vega.github.io/vega/): A visualisation Grammar
@@ -48,6 +49,8 @@ This awesome list is an attempt to create a growing list of frameworks listed fo
 - [Sigma](http://sigmajs.org/): Graph drawing. Supports WebGL with fallback to Canvas.
 - [Cytoscape](http://js.cytoscape.org/): Graph theory / network library. Support Canvas.
 - [Cola](http://ialab.it.monash.edu/webcola/): JavaScript constraint based layout for high-quality graph visualization.
+- [G6](https://github.com/antvis/g6) - Graph visualization library powered by Javascript & Typescript, maintained by Ant Financial
+- [Graphin](https://github.com/antvis/Graphin) - Graph visualization library powered by React & Typescript (built on top of [G6](https://github.com/antvis/g6)), maintained by Ant Financial
 - [Popoto](http://www.popotojs.com/): Graph drawing and querying using D3 on neo4j databases. Supports SVG.
 - [Arbor](http://arborjs.org/): Graph visualization library using web workers and jquery. Supports Canvas.
 - [Alchemy](http://graphalchemist.github.io/Alchemy/#/): Graph drawing. Supports SVG.
@@ -63,6 +66,29 @@ This awesome list is an attempt to create a growing list of frameworks listed fo
 
 #### Web-based
 - [DrasticTreemap](https://www.drasticdata.nl/treemapping.htm): Drop a CSV and visualiz in treemap, barchart, scatter or circle diagram
+
+
+#### React
+- [Graphin](https://github.com/antvis/Graphin) - Graph visualization library powered by React & Typescript (built on top of [G6](https://github.com/antvis/g6)), maintained by Ant Financial
+
+#### React Native
+- [F2](https://github.com/antvis/F2) - An elegant, interactive and flexible charting library for mobile, maintained by Ant Financial
+
+
+### Maps
+- [Deck.gl](https://deck.gl/) - WebGL framework for visual exploratory data analysis of large datasets.
+- [L7](https://github.com/antvis/L7) - Large-scale WebGL-powered Geospatial Data Visualization, maintained by Ant Financial
+- [Dipper](https://github.com/antvis/dipper) - Map application development framework powered by [L7](https://github.com/antvis/L7), maintained by Ant Financial
+
+### Diagramming
+- [X6](https://x6.antv.vision/en) - diagram creation library for rapid construction of DAG diagrams, ER diagrams, flowcharts and other applications, maintained by Ant Financial
+- [Reaflow](https://github.com/reaviz/reaflow) - React library for building workflow editors, flow charts and diagrams
+#### Miscellaneous
+- [Kepler.gl](https://kepler.gl/) - Geospatial analysis tool for large-scale data sets.
+- [L7](https://github.com/antvis/L7) - Large-scale WebGL-powered Geospatial Data Visualization analysis framework, maintained by Ant Financial
+- [L7 Plot](https://github.com/antvis/L7Plot) - Geospatial Visualization Chart Library, maintained by Ant Financial
+
+
 
 #### High level visualisation frameworks:
 - [Nivo](https://nivo.rocks): dataviz on top of the d3 and Reactjs
