@@ -12,7 +12,7 @@ This awesome list is an attempt to create a growing list of frameworks listed fo
 ## Contents
 - [Generic](#Generic)
 - [Graphs](#graphs)
-- [Maps](#maps)
+- [Geospatial](#geospatial)
 - [3Dimensional](#3dimensional)
 - [Time series](#time-series)
 - [Other](#other)
@@ -41,7 +41,7 @@ This awesome list is an attempt to create a growing list of frameworks listed fo
 - [Potree](http://www.potree.org/) - WebGL based point cloud renderer for large point clouds.
 - [ogl](https://github.com/oframe/ogl) - Minimal WebGL framework.
 - [ZIM](https://zimjs.com) - JavaScript Canvas Framework, based on Createjs.
-- [SandDance](https://sanddance.js.org/) - Visually explore and present data. Built on top of Vega and deck.gl.
+- [SandDance](https://microsoft.github.io/SandDance/) - Visually explore and present data. Built on top of Vega and deck.gl.
 - [TWGL](https://github.com/greggman/twgl.js) - Tiny WebGL helper Library.
 - [D3FC](https://d3fc.io/) - Rapidly build fast, customizable interactive components with D3, supporting webgl.
 - [genome-spy](https://github.com/tuner/genome-spy) - WebGL based datavis with scales and zoom.
@@ -62,7 +62,7 @@ This awesome list is an attempt to create a growing list of frameworks listed fo
 - [Grapher](https://grapher.network/) - An R integration of ngraph.
 - [Graphin](https://github.com/antvis/Graphin) - Graph visualization library on top of [G6](https://github.com/antvis/g6))
 
-#### Maps:
+#### Geospatial:
 - [Deck.gl](https://deck.gl/) - WebGL framework for visual exploratory data analysis of large datasets.
 - [L7](https://github.com/antvis/L7) -  WebGL geospatial datavis, part of Antvis.
 - [Dipper](https://github.com/antvis/dipper) - Map application development framework powered by [L7](https://github.com/antvis/L7)
