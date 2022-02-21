@@ -1,4 +1,4 @@
-## awesome-web-visualization-frameworks
+## awesome-web-visualization-frameworks [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 The number of libraries for visualization on the web is huge.
 This awesome list is an attempt to create a growing list of frameworks listed for easy reference.
 
@@ -9,7 +9,17 @@ This awesome list is an attempt to create a growing list of frameworks listed fo
 
 [Contributions](#contributions) are welcome.
 
-*****
+## Contents
+
+- [Generic](#Generic)
+- [Time series](#time-series)
+- [Graph drawing](#graph-drawing)
+- [Pictures and graphs](#pictures and graphs)
+- [3Dimensional](#3dimensional)
+- [React](#react)
+- [Maps](#maps)
+- [Diagramming](#diagramming)
+- [Other](#other)
 
 #### Generic
 - [D3](https://d3js.org/): the most complete 2D data visualization library at time of writing. Supports SVG.
@@ -39,14 +49,14 @@ This awesome list is an attempt to create a growing list of frameworks listed fo
 - [TWGL](https://github.com/greggman/twgl.js): Tiny WebGL helper Library
 - [D3FC](https://d3fc.io/): Rapidly build fast, customizable interactive components with D3, supporting webgl
 - [genome-spy](https://github.com/tuner/genome-spy): WebGL based datavis with scales and zoom
+- [DrasticTreemap](https://www.drasticdata.nl/treemapping.htm): Drop a CSV and visualiz in treemap, barchart, scatter or circle diagram
 - [Perspective](https://perspective.finos.org/): WebGL based analytics and datavis component for large and/or streaming datasets
+- [Nivo](https://nivo.rocks): dataviz on top of the d3 and Reactjs
 
-#### Time series data:
+#### Time series:
 - [MetricsGraphics](https://metricsgraphicsjs.org/): optimized for time-series data; built on D3
 
-
-
-#### Graph drawing
+#### Graphs:
 - [Sigma](http://sigmajs.org/): Graph drawing. Supports WebGL with fallback to Canvas.
 - [Cytoscape](http://js.cytoscape.org/): Graph theory / network library. Support Canvas.
 - [Cola](http://ialab.it.monash.edu/webcola/): JavaScript constraint based layout for high-quality graph visualization.
@@ -58,41 +68,30 @@ This awesome list is an attempt to create a growing list of frameworks listed fo
 - [Elgrapho](https://www.elgrapho.com/): Graph drawing, on Webgl.
 - [Grapher](https://grapher.network/): An R integration of ngraph.
 
-#### Pictures and graphs
+#### Pictures:
  - [PixPlot](https://github.com/YaleDHLab/pix-plot): A WebGL viewer for UMAP or TSNE-clustered images
 
-#### 3Dimensional
+#### 3Dimensional:
 - [three.js](https://threejs.org/): 3D visualization. WebGL.
-- [babylon.js](https://www.babylonjs.com/): 3D visualization. WEbGL.
+- [babylon.js](https://www.babylonjs.com/): 3D visualization. WebGL.
 
-#### Web-based
-- [DrasticTreemap](https://www.drasticdata.nl/treemapping.htm): Drop a CSV and visualiz in treemap, barchart, scatter or circle diagram
-
-
-#### React
+#### React:
 - [Graphin](https://github.com/antvis/Graphin) - Graph visualization library powered by React & Typescript (built on top of [G6](https://github.com/antvis/g6)), maintained by Ant Financial
-
-#### React Native
 - [F2](https://github.com/antvis/F2) - An elegant, interactive and flexible charting library for mobile, maintained by Ant Financial
 
-
-### Maps
+### Maps:
 - [Deck.gl](https://deck.gl/) - WebGL framework for visual exploratory data analysis of large datasets.
 - [L7](https://github.com/antvis/L7) - Large-scale WebGL-powered Geospatial Data Visualization, maintained by Ant Financial
 - [Dipper](https://github.com/antvis/dipper) - Map application development framework powered by [L7](https://github.com/antvis/L7), maintained by Ant Financial
 
-### Diagramming
+### Diagramming:
 - [X6](https://x6.antv.vision/en) - diagram creation library for rapid construction of DAG diagrams, ER diagrams, flowcharts and other applications, maintained by Ant Financial
 - [Reaflow](https://github.com/reaviz/reaflow) - React library for building workflow editors, flow charts and diagrams
-#### Miscellaneous
+
+#### Other:
 - [Kepler.gl](https://kepler.gl/) - Geospatial analysis tool for large-scale data sets.
 - [L7](https://github.com/antvis/L7) - Large-scale WebGL-powered Geospatial Data Visualization analysis framework, maintained by Ant Financial
 - [L7 Plot](https://github.com/antvis/L7Plot) - Geospatial Visualization Chart Library, maintained by Ant Financial
-
-
-
-#### High level visualisation frameworks:
-- [Nivo](https://nivo.rocks): dataviz on top of the d3 and Reactjs
 
 *****
 
@@ -102,9 +101,9 @@ Contributions or suggestions for improvement are welcome:
 
 - The GitHub way: send us a [pull request](https://help.github.com/articles/creating-a-pull-request/) to add directly to this list.
 - Add an item to the
-  [issue tracker](https://github.com/SNStatComp/awesome-web-visualization-libraries/issues)
+  [issue tracker](https://github.com/olavtenbosch/awesome-web-visualization-frameworks/issues)
 issue tracker (you need a Github account).
-- Send an e-mail to `info@drasticdata.nl` or tweet [\@drasticdata](https://twitter.com/drasticdata)
+- Send an e-mail to `olavtenbosch@gmail.com` or tweet [\@olavtenbosch](https://twitter.com/olavtenbosch)
 
 
 ## License
