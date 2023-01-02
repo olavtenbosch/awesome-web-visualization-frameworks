@@ -29,7 +29,6 @@ This awesome list is an attempt to create a growing list of frameworks listed fo
 - [Vega-lite](https://vega.github.io/vega-lite/) - Easy JSON based visualisation tool, compiles to Vega.
 - [NVD3](http://nvd3.org/) - Re-usable charts for d3.js.
 - [Chart.js](http://www.chartjs.org/) - Simple charting library.
-- [Data Illustrator](http://www.data-illustrator.com/) - Data visualizations as in a design tool.
 - [Highcharts](https://www.highcharts.com/) - Extensive visualization library.
 - [Phenomenon](https://github.com/vaneenige/phenomenon) - Small, low-level WebGL library for high performance particle drawing.
 - [Pts](https://ptsjs.org/) - Essential efficient building blocks for creative coding and visualization.
