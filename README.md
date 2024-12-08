@@ -22,6 +22,7 @@ This awesome list is an attempt to create a growing list of frameworks listed fo
 - [CreateJS/EaselJS](https://createjs.com/easeljs) - Games, art and other graphical experiences such as data vizualization. Supports Canvas.
 - [Stardust](https://stardustjs.github.io/) - GPU-based Visualization Library. Uses webGL.
 - [PIXI](http://www.pixijs.com/) - General purpose fast 2D WebGL renderer. Supports WebGL.
+- [skia-canvas](https://github.com/samizdatco/skia-canvas) - GPU-accelerated 2D graphics environment for Node
 - [Graphology](https://github.com/graphology/graphology) - Multipurpose Graph lib; serves as base lib for other graph visualization libraries.
 - [Visjs](http://visjs.org/) - Dynamic, browser based visualization, 2D and 3D. Supports Canvas.
 - [Vx](https://vx-demo.now.sh/) - Visualization components based on d3.js and react.
